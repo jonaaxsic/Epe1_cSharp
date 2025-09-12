@@ -32,7 +32,7 @@ Este proyecto consiste en una aplicación de escritorio desarrollada en **VB.NET
 - Se maneja adecuadamente la ausencia del archivo Excel o si el archivo está vacío.
 - Cualquier error no manejado es documentado con comentarios en el código para futuras referencias.
 
----
+
 
 
 
