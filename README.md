@@ -34,9 +34,7 @@ Este proyecto consiste en una aplicación de escritorio desarrollada en **VB.NET
 
 ---
 
-## 📷 Vista previa
 
-![Vista previa del programa](./a9e5729b-6aca-47d7-958e-0f185df5c7c1.png)
 
 ---
 
